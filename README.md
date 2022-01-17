@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gokarla Srinivas</h1>
 <h3 align="center">Strong in design and integration with intuitive problem-solving skills. Passionate about implementing and launching new projects. Looking to start a career as a Full-Stack web developer with a reputed firm driven by technology</h3>
 
-<p align="left"> srinivasGokarla </p>
+<h2 align="left"> srinivasGokarla </h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srinivasGokarla" alt="srinivasGokarla" /></a> </p>
 
