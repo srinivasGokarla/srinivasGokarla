@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gokarla Srinivas</h1>
 <h3 align="center">Strong in design and integration with intuitive problem-solving skills. Passionate about implementing and launching new projects. Looking to start a career as a Full-Stack web developer with a reputed firm driven by technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srinu217&label=Profile%20views&color=0e75b6&style=flat" alt="srinivasGokarla" /> </p>
+<p align="left"> <img src="https://drive.google.com/file/d/1x-27rPxQgwRsbOKRGj1tISc6IJQ1f-3w/view?usp=sharing" alt="srinivasGokarla" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srinu217" alt="srinivasGokarla" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srinivasGokarla" alt="srinivasGokarla" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack developer and Data Structure Algorithm**
 
