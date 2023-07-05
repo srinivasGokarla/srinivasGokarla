@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gokarla Srinivas</h1>
+<h1 align="center">Hi 👋, I am Gokarla Srinivas</h1>
 <h3 align="center">Strong in design and integration with intuitive problem-solving skills. Passionate about implementing and launching new projects. Looking to start a career as a Full-Stack web developer with a reputed firm driven by technology</h3>
 
 <h2 align="left">SrinivasGokarla</h2>
