@@ -3,13 +3,13 @@
 
 <h2 align="left">SrinivasGokarla</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srinivasGokarla" alt="srinivasGokarla" /></a> </p>
+
 
 - 🌱 I’m currently learning **Full Stack developer and Data Structure Algorithm**
 
 - 📝 I regularly write articles on [https://medium.com/@srinivasgokarla](https://medium.com/@srinivasgokarla)
 
-- 💬 Ask me about **React, Bootstrap,Tailwind,HTML,CSS,JS,Node JS,Express JS**
+- 💬 Ask me about **React Js, MongoDB, Typescript, Bootstrap, Tailwind, HTML, CSS, JS, Node JS, Express JS**
 - All of my projects are available at **https://portfolio-srinivasgokarla.vercel.app/**
 
 - 📫 How to reach me **srinivasgokarla@gmail.com**
