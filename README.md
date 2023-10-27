@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokarla Srinivas</h1>
-<h3 align="center">Strong in design and integration with intuitive problem-solving skills. Passionate about implementing and launching new projects. Looking to start a career as a Full-Stack web developer with a reputed firm driven by technology</h3>
+<h3 align="center">Thriving in a career as a Full-Stack web developer, collaborating with industry-leading technology-driven firms, I excel in comprehensive design and seamless integration, equipped with an intuitive problem-solving acumen. Dedicated to bringing new projects to life and launching them successfully.</h3>
 
 <h2 align="left">SrinivasGokarla</h2>
 
