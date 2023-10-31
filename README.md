@@ -1,23 +1,27 @@
+<h1 align="center">Hi 👋, I'm Gokarla Srinivas</h1>
+<h3 align="center">Thriving in a career as a Full-Stack web developer, collaborating with industry-leading technology-driven firms, I excel in comprehensive design and seamless integration, equipped with an intuitive problem-solving acumen. Dedicated to bringing new projects to life and launching them successfully.</h3>
+
 <h2 align="left">SrinivasGokarla</h2>
 
 
 
 - 🌱Currently, I work as a full-stack developer, focusing on data structures and algorithms.**
 
-- 📝 I regularly write articles on <a href="https://medium.com/@srinivasgokarla" target="_blank">Medium</a>
+- 📝 I regularly write articles on [https://medium.com/@srinivasgokarla](https://medium.com/@srinivasgokarla)
 
 - 💬 Ask me about **React Js, MongoDB, Typescript, Bootstrap, Tailwind, HTML, CSS, JS, Node JS, Express JS**
-- All of my projects are available at <a href="https://srinivasgokarla.github.io/portfolio" target="_blank">My Portfolio</a>
+- All of my projects are available at **https://srinivasgokarla.github.io/portfolio/**
 
 - 📫 How to reach me **srinivasgokarla@gmail.com**
 
-
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
-<a href="https://www.linkedin.com/in/srinivas-gokarla/" title="LinkedIn" target="_blank">LinkedIn</a>
-<a href="https://medium.com/@srinivasgokarla" title="Medium" target="_blank">Medium</a>
+<a href="https://www.linkedin.com/in/srinivas-gokarla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srinivas-gokarla/" height="30" width="40" /></a>
+<a href="https://medium.com/@srinivasgokarla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@srinivasgokarla" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
