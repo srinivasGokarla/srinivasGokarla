@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Full Stack developer and Data Structure Algorithm**
+- 🌱Currently, I work as a full-stack developer, focusing on data structures and algorithms.**
 
 - 📝 I regularly write articles on [https://medium.com/@srinivasgokarla](https://medium.com/@srinivasgokarla)
 
