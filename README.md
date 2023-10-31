@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/srinivas-gokarla/" title="LinkedIn" target="_blank"><img src="https://www.nicepng.com/png/detail/19-198727_png-file-linkedin-icon-png-black.png" alt="LinkedIn"></a>
-<a href="https://medium.com/@srinivasgokarla" title="Medium" target="_blank"><img src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" alt="Medium"></a>
+<a href="https://www.linkedin.com/in/srinivas-gokarla/" title="LinkedIn" target="_blank">LinkedIn</a>
+<a href="https://medium.com/@srinivasgokarla" title="Medium" target="_blank">Medium</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
