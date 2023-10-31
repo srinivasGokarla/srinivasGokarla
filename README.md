@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/srinivas-gokarla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srinivas-gokarla/" height="30" width="40" /></a>
-<a href="https://medium.com/@srinivasgokarla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@srinivasgokarla" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/srinivas-gokarla/" title="LinkedIn" target="_blank"><img src="https://www.nicepng.com/png/detail/19-198727_png-file-linkedin-icon-png-black.png" alt="LinkedIn"></a>
+<a href="https://medium.com/@srinivasgokarla" title="Medium" target="_blank"><img src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" alt="Medium"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
