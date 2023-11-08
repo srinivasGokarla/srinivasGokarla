@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React Js, MongoDB, Typescript, Bootstrap, Tailwind, HTML, CSS, JS, Node JS, Express JS**
   
-- All of my projects are available at **[portfolio](https://srinivasgokarla.github.io/portfolio/))**
+- All of my projects are available at **[portfolio](https://srinivasgokarla.github.io/portfolio/)**
 
 - 📫 How to reach me **srinivasgokarla@gmail.com**
 
