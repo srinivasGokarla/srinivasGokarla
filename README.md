@@ -7,11 +7,11 @@
 
 - 🌱Currently, I work as a full-stack developer, focusing on data structures and algorithms.**
 
-- 📝 I regularly write articles on [https://medium.com/@srinivasgokarla](https://medium.com/@srinivasgokarla)
+- 📝 I regularly write articles on **[medium](https://medium.com/@srinivasgokarla)**
 
 - 💬 Ask me about **React Js, MongoDB, Typescript, Bootstrap, Tailwind, HTML, CSS, JS, Node JS, Express JS**
   
-- All of my projects are available at **https://srinivasgokarla.github.io/portfolio/**
+- All of my projects are available at **[portfolio](https://srinivasgokarla.github.io/portfolio/))**
 
 - 📫 How to reach me **srinivasgokarla@gmail.com**
 
